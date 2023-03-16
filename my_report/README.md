@@ -19,6 +19,14 @@
 
    ![image](https://user-images.githubusercontent.com/100446886/225607529-240db9d5-8643-48f3-9c8a-51feb861617e.png) ![image](https://user-images.githubusercontent.com/100446886/225610564-fa793e8c-102c-4bdf-8f34-1748ce0bc689.png)
    Μετά έφτιαξα έναν φάκελο Assets μέσα στο φάκελο του παραδοτέου και περασιά τα αρχεία .blend έτσι ώστε να μπορώ να τα περάσω στο Unity για να φτιάξω την σκηνή μου.
+   Τα έβαλα σε μια σειρά ώστε να υπάρχουν τα background, middleground, και foreground. Έπειτα έβαλα μερικά αντικείμενα ακόμα όπως κάποια αμάξια και μερικές στοίβες από    σκουπίδια. ![image](https://user-images.githubusercontent.com/100446886/225621600-64ec6ef0-b382-4da5-a186-fb889743ff36.png) Τέλος έφτιαξα τα materials για τα αμάξια, τα κτήρια , τον δρόμο και για τα σκουπίδια από αυτό το [link]( https://learn.unity.com/tutorial/creating-physically-based-materials-unity-2019-3#) και άλλαξα το rotation για το φως ώστε να γίνει απόγευμα.
+   ![image](https://user-images.githubusercontent.com/100446886/225623003-4dd9a9a8-e30a-4a78-9fe3-d72b0ca141b0.png) ![image](https://user-images.githubusercontent.com/100446886/225623501-5752901b-c6ac-480b-9537-c982d1061da1.png)
+   Οπότε η σκηνή έγινε έτσι.
+   ![image_001_0113](https://user-images.githubusercontent.com/100446886/225623869-ba80067e-5feb-45d8-a479-6a67b388f08a.jpg)
+
+
+
+
 
 
 
