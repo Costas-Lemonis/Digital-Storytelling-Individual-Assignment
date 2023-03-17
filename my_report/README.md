@@ -24,8 +24,16 @@
    Οπότε η σκηνή έγινε έτσι.
    ![image_001_0113](https://user-images.githubusercontent.com/100446886/225623869-ba80067e-5feb-45d8-a479-6a67b388f08a.jpg)
 
-1. (**Unit 3 - Creative Challenge**)
-   - Αρχικά έκανα setup το αρχείο όπως έλεγε το Unit 3
+2. (**Unit 3 - Creative Challenge**)
+   - Αρχικά έκανα ένα καινούργιο scene και πρόσθεσα στον φάκελο Assets ένα δωμάτιο που είχα κάνει στο Blender. ![pre1](https://user-images.githubusercontent.com/100446886/226064415-0a96636c-45f0-4c38-9e7d-cdce9ef615c4.png)
+ Μετά κάποια point lights σε διαφορά χρώματα και έβαλα κάποια έτοιμα textures που είχε το Unity. ![image](https://user-images.githubusercontent.com/100446886/226064578-ff4496fc-82ef-4103-a1d2-49ae2e446929.png) Τέλος για το τελικό render έκανα κάποια εφέ με τα φώτα ώστε να αναβοσβήνουν.
+
+
+3. (**Unit 4 - Creative Challenge**)
+   - Αρχικά έκανα ένα καινούργιο scene με την σκηνή από το creative challenge 3. Μετά κατέβασα δυο μοντέλα για να βάλω στην σκηνή μου και τα πέρασα στο Mixamo ώστε να βάλω κάποια  “ωραία” animations. ![image](https://user-images.githubusercontent.com/100446886/226063234-b68a8657-d9fd-4f7a-8e5c-5080937b0e23.png)Έπειτα σύμφωνα με tutorials του Unity πρόσθεσα στο Scene τα μοντέλα με τα animation. Μετά κάποια point lights σε διαφορά χρώματα.![image](https://user-images.githubusercontent.com/100446886/226063915-599a754d-902c-47be-a56e-752c4f5f2e7a.png) Τέλος για το τελικό render έκανα κάποια εφέ με τα φώτα ώστε να αναβοσβήνουν .
+
+
+   
 
 
 
