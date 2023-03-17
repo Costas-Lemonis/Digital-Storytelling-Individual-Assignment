@@ -50,4 +50,4 @@
 
 
 # Sources
-- **Deliverable 1** | [Materials][(https://www.qrcode-monkey.com/)](https://learn.unity.com/tutorial/creating-physically-based-materials-unity-2019-3#) | [Unity Tutorial][(https://www.videvo.net/video/mystical-horror-background-with-the-house-and-moon-3/605990/)](https://learn.unity.com/project/unit-2-realtime-previsualization?uv=2019.4&courseId=5ee00851edbc2a0022274f75) | 
+- **Deliverable 1** | [Materials](https://learn.unity.com/tutorial/creating-physically-based-materials-unity-2019-3#) | [Unity Tutorial](https://learn.unity.com/project/unit-2-realtime-previsualization?uv=2019.4&courseId=5ee00851edbc2a0022274f75) | [Model 1](https://sketchfab.com/3d-models/the-last-of-us-bloater-6b87499104e54ec1a480a495613d349f) | [Model 2 ](https://sketchfab.com/3d-models/gimli-86f314ff66704184853d2e53e2559978) | [Tutorial   ](https://learn.unity.com/project/unit-3-environment-modeling-set-dressing-in-unity?uv=2019.4&courseId=5ee00851edbc2a0022274f75) | [Tutorial 2](https://learn.unity.com/project/unit-4-creating-an-animatic-a-preliminary-version-of-an-animation?uv=2019.4&courseId=5ee00851edbc2a0022274f75)
