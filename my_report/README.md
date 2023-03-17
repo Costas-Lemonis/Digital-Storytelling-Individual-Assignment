@@ -13,7 +13,7 @@
 
 
 # 1st Deliverable
-1. (**Unit 2 - Creative Challenge**)
+1. (**Unit 2 - Creative Challenge**) 
    - Αρχικά έκανα setup το αρχείο όπως έλεγε το Unit 1, μετά έκανα κάποιες δοκιμές με το ProBuilder μέσω του Unity, αλλά τα κτήρια δεν έβγαιναν καλά οπότε τα έφτιαξα στο Blender.Τα κτήρια έγιναν με τον ίδιο τρόπο δηλαδή απλά σχήματα όπως ο κύβος και extrude ώστε να πάρουν την μορφή που ήθελα , έπειτα με το Wireframe έφτιαξα τα θεμέλια για κάθε κτήριο και με το Boolean έκανα τις καταστροφές στο εξωτερικό του κάθε κτηρίου όπως τους τοίχους τα τζαμιά και τα Wireframes τους.
    - Το μπλε είναι ο τοίχος - Το άσπρο  το τζαμί - Το πράσινο το Wireframe
 
@@ -23,14 +23,17 @@
    ![image](https://user-images.githubusercontent.com/100446886/225623003-4dd9a9a8-e30a-4a78-9fe3-d72b0ca141b0.png) ![image](https://user-images.githubusercontent.com/100446886/225623501-5752901b-c6ac-480b-9537-c982d1061da1.png)
    Οπότε η σκηνή έγινε έτσι.
    ![image_001_0113](https://user-images.githubusercontent.com/100446886/225623869-ba80067e-5feb-45d8-a479-6a67b388f08a.jpg)
-
+   **[VIDEO](https://www.youtube.com/watch?v=HFKrNcondeE)**
+   
 2. (**Unit 3 - Creative Challenge**)
    - Αρχικά έκανα ένα καινούργιο scene και πρόσθεσα στον φάκελο Assets ένα δωμάτιο που είχα κάνει στο Blender. ![pre1](https://user-images.githubusercontent.com/100446886/226064415-0a96636c-45f0-4c38-9e7d-cdce9ef615c4.png)
  Μετά κάποια point lights σε διαφορά χρώματα και έβαλα κάποια έτοιμα textures που είχε το Unity. ![image](https://user-images.githubusercontent.com/100446886/226064578-ff4496fc-82ef-4103-a1d2-49ae2e446929.png) Τέλος για το τελικό render έκανα κάποια εφέ με τα φώτα ώστε να αναβοσβήνουν.
+ **[VIDEO](https://www.youtube.com/watch?v=zHCGdm5mJUo)**
 
 
 3. (**Unit 4 - Creative Challenge**)
-   - Αρχικά έκανα ένα καινούργιο scene με την σκηνή από το creative challenge 3. Μετά κατέβασα δυο μοντέλα για να βάλω στην σκηνή μου και τα πέρασα στο Mixamo ώστε να βάλω κάποια  “ωραία” animations. ![image](https://user-images.githubusercontent.com/100446886/226063234-b68a8657-d9fd-4f7a-8e5c-5080937b0e23.png)Έπειτα σύμφωνα με tutorials του Unity πρόσθεσα στο Scene τα μοντέλα με τα animation. Μετά κάποια point lights σε διαφορά χρώματα.![image](https://user-images.githubusercontent.com/100446886/226063915-599a754d-902c-47be-a56e-752c4f5f2e7a.png) Τέλος για το τελικό render έκανα κάποια εφέ με τα φώτα ώστε να αναβοσβήνουν .
+   - Αρχικά έκανα ένα καινούργιο scene με την σκηνή από το creative challenge 3. Μετά κατέβασα δυο μοντέλα για να βάλω στην σκηνή μου και τα πέρασα στο Mixamo ώστε να βάλω κάποια  “ωραία” animations. ![image](https://user-images.githubusercontent.com/100446886/226063234-b68a8657-d9fd-4f7a-8e5c-5080937b0e23.png)Έπειτα σύμφωνα με tutorials του Unity πρόσθεσα στο Scene τα μοντέλα με τα animation. Μετά κάποια point lights σε διαφορά χρώματα.![image](https://user-images.githubusercontent.com/100446886/226063915-599a754d-902c-47be-a56e-752c4f5f2e7a.png) Τέλος για το τελικό render έκανα κάποια εφέ με τα φώτα ώστε να αναβοσβήνουν.
+   **[VIDEO]()**
 
 
    
