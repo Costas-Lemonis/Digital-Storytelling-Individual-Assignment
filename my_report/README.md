@@ -27,15 +27,23 @@
    - Αρχικά έκανα ένα καινούργιο scene με την σκηνή από το creative challenge 3. Μετά κατέβασα δυο μοντέλα για να βάλω στην σκηνή μου και τα πέρασα στο Mixamo ώστε να βάλω κάποια  “ωραία” animations. ![image](https://user-images.githubusercontent.com/100446886/226063234-b68a8657-d9fd-4f7a-8e5c-5080937b0e23.png)Έπειτα σύμφωνα με tutorials του Unity πρόσθεσα στο Scene τα μοντέλα με τα animation. Μετά κάποια point lights σε διαφορά χρώματα.![image](https://user-images.githubusercontent.com/100446886/226063915-599a754d-902c-47be-a56e-752c4f5f2e7a.png) Τέλος για το τελικό render έκανα κάποια εφέ με τα φώτα ώστε να αναβοσβήνουν.
    - **[VIDEO](https://www.youtube.com/watch?v=MrDuVcbp_Ws)**
 
-
-   
-
-
-
-
-
-
 # 2nd Deliverable
+1. (**Unit 5 - Creative Challenge**) 
+   - Αρχικά κατέβασα το αρχείο Unit5_StarterFiles_2019.4 όπως έλεγε το Tutorial σύμφωνα με το Tutorial πρόσθεσα 4 κάμερες ώστε να εναλλάσσονται μεταξύ τους.Μετά κατά το Recording έπαιξα λίγο με τα Position και τα Rotation έτσι ώστε να φτιαχτεί ένα ωραίο αποτέλεσμα.
+   ![image](https://user-images.githubusercontent.com/100446886/227391239-4dd312c9-fb5e-455f-acbd-14f80250c598.png)
+
+   - **[VIDEO](https://www.youtube.com/watch?v=syXEjVdY_Cw)**
+   
+2. (**Unit 6 - Creative Challenge**)
+   - Αρχικά κατέβασα το αρχείο Unit6_StarterFiles_2019.4 όπως έλεγε το Tutorial σύμφωνα με το Tutorial πρόσθεσα στο Scene τα Light για το Alley , Street , Shop και πείραξα λίγο τα χρώματα και την φωτεινότητα τους ώστε να βγει αυτό που ήθελα.Μετά έβαλα διαφορά Processing Effects όπως Bloom , Motion Blur και άλλα.
+   ![image](https://user-images.githubusercontent.com/100446886/227392367-1fb5adc0-f892-4682-afe9-83a868ce5243.png)
+
+   - **[VIDEO](https://www.youtube.com/watch?v=yA9XOMyBEYE)**
+
+
+3. (**Unit 7 - Creative Challenge**)
+   - 
+   - **[VIDEO](https://www.youtube.com/watch?v=wuly7GNDj6w)**
 
 
 # 3rd Deliverable 
@@ -46,3 +54,4 @@
 
 # Sources
 - **Deliverable 1** | [Materials](https://learn.unity.com/tutorial/creating-physically-based-materials-unity-2019-3#) | [Unity Tutorial](https://learn.unity.com/project/unit-2-realtime-previsualization?uv=2019.4&courseId=5ee00851edbc2a0022274f75) | [Model 1](https://sketchfab.com/3d-models/the-last-of-us-bloater-6b87499104e54ec1a480a495613d349f) | [Model 2 ](https://sketchfab.com/3d-models/gimli-86f314ff66704184853d2e53e2559978) | [Tutorial   ](https://learn.unity.com/project/unit-3-environment-modeling-set-dressing-in-unity?uv=2019.4&courseId=5ee00851edbc2a0022274f75) | [Tutorial 2](https://learn.unity.com/project/unit-4-creating-an-animatic-a-preliminary-version-of-an-animation?uv=2019.4&courseId=5ee00851edbc2a0022274f75) | [VIDEO 1](https://www.youtube.com/watch?v=HFKrNcondeE) | [VIDEO 2](https://www.youtube.com/watch?v=zHCGdm5mJUo) | [VIDEO 3](https://www.youtube.com/watch?v=MrDuVcbp_Ws)
+- **Deliverable 2** | [MP3 Converter](https://www.easymp3converter.org/) | [MP3 Cutter](https://mp3cut.net/) | [Background Song](https://www.youtube.com/watch?v=mw2kKyJu9gY) | [ΘΑΝΑΗΛΑΚΗΣ](https://www.youtube.com/watch?v=a3wv7yjWZWQ) | [Tutorial](https://learn.unity.com/project/unit-5-create-compelling-shots-using-virtual-cameras?uv=2019.4&courseId=5ee00851edbc2a0022274f75) | [VIDEO 1](https://www.youtube.com/watch?v=syXEjVdY_Cw) | [VIDEO 2](https://www.youtube.com/watch?v=yA9XOMyBEYE) | [VIDEO 3](https://www.youtube.com/watch?v=wuly7GNDj6w)
