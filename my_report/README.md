@@ -6,12 +6,10 @@
 ### Digital-Storytelling-Individual-Assignment: https://github.com/Costas-Lemonis/Digital-Storytelling-Individual-Assignment
 
 # Introduction
-
-
+Εδώ θα δείτε το Challenges 2-7 για το Real-time Animated Storytelling με το Unity και ΜΠΟΡΕΙ ένα τελικό animation με διάρκεια 3 λεπτά.
 
 # Summary
-
-
+Δεν έχω να γράψω κάτι  στο Report, απλά ακολούθησα τα βήμα τα από τα Tutorials του Unity και χρησιμοποίησα αρκετό Blender για τα Props και κάποια Assets επίσης το Mixamo για τα Animations.
 # 1st Deliverable
 1. (**Unit 2 - Creative Challenge**) 
    - Αρχικά έκανα setup το αρχείο όπως έλεγε το Unit 1, μετά έκανα κάποιες δοκιμές με το ProBuilder μέσω του Unity, αλλά τα κτήρια δεν έβγαιναν καλά οπότε τα έφτιαξα στο Blender.Τα κτήρια έγιναν με τον ίδιο τρόπο δηλαδή απλά σχήματα όπως ο κύβος και extrude ώστε να πάρουν την μορφή που ήθελα , έπειτα με το Wireframe έφτιαξα τα θεμέλια για κάθε κτήριο και με το Boolean έκανα τις καταστροφές στο εξωτερικό του κάθε κτηρίου όπως τους τοίχους τα τζαμιά και τα Wireframes τους.
@@ -35,14 +33,16 @@
    - **[VIDEO](https://www.youtube.com/watch?v=syXEjVdY_Cw)**
    
 2. (**Unit 6 - Creative Challenge**)
-   - Αρχικά κατέβασα το αρχείο Unit6_StarterFiles_2019.4 όπως έλεγε το Tutorial σύμφωνα με το Tutorial πρόσθεσα στο Scene τα Light για το Alley , Street , Shop και πείραξα λίγο τα χρώματα και την φωτεινότητα τους ώστε να βγει αυτό που ήθελα.Μετά έβαλα διαφορά Processing Effects όπως Bloom , Motion Blur και άλλα.
+   - Αρχικά κατέβασα το αρχείο Unit6_StarterFiles_2019.4 όπως έλεγε το Tutorial και σύμφωνα με αυτό πρόσθεσα στο Scene τα Light για το Alley , Street , Shop και πείραξα λίγο τα χρώματα και την φωτεινότητα τους ώστε να βγει αυτό που ήθελα.Μετά έβαλα διαφορά Processing Effects όπως Bloom , Motion Blur και άλλα.
    ![image](https://user-images.githubusercontent.com/100446886/227392367-1fb5adc0-f892-4682-afe9-83a868ce5243.png)
 
    - **[VIDEO](https://www.youtube.com/watch?v=yA9XOMyBEYE)**
 
 
 3. (**Unit 7 - Creative Challenge**)
-   - 
+   - Αρχικά κατέβασα το αρχείο Unit7_StarterFiles_2019.4 όπως έλεγε το Tutorial σύμφωνα με αυτό έβαλα κάποια Visual Effects στο Scene μου όπως Sparks στο Alley και σε μια κολόνα επίσης έβαλα και Καπνό στο Alley και πίσω από το Shop. ![image](https://user-images.githubusercontent.com/100446886/227394164-d1145efb-1b13-4afe-be47-7f6453c9d4d5.png) Τέλος έβαλα τους ήχους που ήθελα , χρησιμοποίησα τους ήχους που είχε το Tutorial για τον σκύλο και την γάτα και πρόσθεσα εγώ τον ήχο για το [Background]( https://www.youtube.com/watch?v=mw2kKyJu9gY) και για τα [“λόγια”](https://www.youtube.com/watch?v=a3wv7yjWZWQ) που λέει το στο τέλος και τα έκανα [Cut]( https://mp3cut.net/) ώστε ώστε να ταιριάζουν με το Scene και πείραξα την ένταση τους. ![image](https://user-images.githubusercontent.com/100446886/227395506-5419324b-c4b3-4ac1-b265-62b20494b013.png) . 
+
+
    - **[VIDEO](https://www.youtube.com/watch?v=wuly7GNDj6w)**
 
 
