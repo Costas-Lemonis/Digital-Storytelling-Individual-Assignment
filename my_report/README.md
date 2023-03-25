@@ -6,7 +6,7 @@
 ### Digital-Storytelling-Individual-Assignment: https://github.com/Costas-Lemonis/Digital-Storytelling-Individual-Assignment
 
 # Introduction
-Εδώ θα δείτε το Challenges 2-7 για το Real-time Animated Storytelling με το Unity και ΜΠΟΡΕΙ ένα τελικό animation με διάρκεια 3 λεπτά.
+Εδώ θα δείτε το Challenges 2-7 για το Real-time Animated Storytelling με το Unity και ΜΠΟΡΕΙ ένα τελικό animation με διάρκεια 2-3 λεπτά.
 
 # Summary
 Δεν έχω να γράψω κάτι  στο Report, απλά ακολούθησα τα βήμα τα από τα Tutorials του Unity και χρησιμοποίησα αρκετό Blender για τα Props και κάποια Assets επίσης το Mixamo για τα Animations.
