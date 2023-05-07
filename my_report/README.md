@@ -1,6 +1,6 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: Konstantinos Lemonis
+### First and Last Name: Konstantinos Lemonis 
 ### University Registration Number: dpsd19065
 ### GitHub Personal Profile: https://github.com/Costas-Lemonis
 ### Digital-Storytelling-Individual-Assignment: https://github.com/Costas-Lemonis/Digital-Storytelling-Individual-Assignment
