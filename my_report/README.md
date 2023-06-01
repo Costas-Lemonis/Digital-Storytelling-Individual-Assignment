@@ -6,7 +6,7 @@
 ### Digital-Storytelling-Individual-Assignment: https://github.com/Costas-Lemonis/Digital-Storytelling-Individual-Assignment
 
 # Introduction
-Εδώ θα δείτε το Challenges 2-7 για το Real-time Animated Storytelling με το Unity και ΜΠΟΡΕΙ ένα τελικό animation.
+Εδώ θα δείτε το Challenges 2-7 για το Real-time Animated Storytelling με το Unity και ΜΠΟΡΕΙ ένα τελικό animation με διάρκεια 2-3 λεπτά.
 
 # Summary
 Δεν έχω να γράψω κάτι  στο Report, απλά ακολούθησα τα βήμα τα από τα Tutorials του Unity και χρησιμοποίησα αρκετό Blender για τα Props και κάποια Assets επίσης το Mixamo για τα Animations.
@@ -48,7 +48,11 @@
 
 
 # 3rd Deliverable 
-   -  Αρχικά έκανα κάποια 3D μοντέλα  στο Blender και διάλεξα αυτό ταίριαζε καλυτέρα στο animation αλλά κυρίως ποιο δούλευε κατά την εισαγωγή του στο Unity, επίσης χρησιμοποίησα μερικά Assets που είχα κάνει για τα παλιότερα Deliverables όπως το αμάξι και το σπίτι. Μετά έκανα ένα καινούργιο Project και άρχισα να φτιάχνω την σκηνή μου, στο Blender έκανα την βασική σκηνή και τα textures και τα πέρασα στο Unity. Τέλος με τους τρόπους που μάθαμε στα προηγούμενα Deliverables έβαλα Virtual Cameras και Particle Effects αλλά λόγω χρόνου δεν έδωσα αρκετή έμφαση.
+   -  Αρχικά έκανα κάποια 3D μοντέλα  στο Blender και διάλεξα αυτό ταίριαζε καλυτέρα στο animation αλλά κυρίως ποιο δούλευε κατά την εισαγωγή του στο Unity, επίσης χρησιμοποίησα μερικά Assets που είχα κάνει για τα παλιότερα Deliverables όπως το αμάξι και το σπίτι.![image](https://github.com/Costas-Lemonis/Digital-Storytelling-Individual-Assignment/assets/100446886/5b724001-5540-4d8e-849f-42e3296628df) ![image](https://github.com/Costas-Lemonis/Digital-Storytelling-Individual-Assignment/assets/100446886/ad2c69ff-1fbc-4da2-bfe2-e7ab14607da2)
+![image](https://github.com/Costas-Lemonis/Digital-Storytelling-Individual-Assignment/assets/100446886/0975673e-6e65-4515-a640-5fac4a4c4f24)
+![image](https://github.com/Costas-Lemonis/Digital-Storytelling-Individual-Assignment/assets/100446886/0473724f-2691-4d87-a216-e656e67502b4)
+![image](https://github.com/Costas-Lemonis/Digital-Storytelling-Individual-Assignment/assets/100446886/22dcb0c8-0d81-4a85-aa7c-62f6f5f52d06)
+ Μετά έκανα κάποια animations για τα Robot όπως να χαιρετάει και κουνάει τα χεριά του μετά έκανα ένα καινούργιο Project και άρχισα να φτιάχνω την σκηνή μου, στο Blender έκανα την βασική σκηνή και τα textures και τα πέρασα στο Unity. Τέλος με τους τρόπους που μάθαμε στα προηγούμενα Deliverables έβαλα Virtual Cameras και Particle Effects αλλά λόγω χρόνου δεν έδωσα αρκετή έμφαση.
 
 # Conclusions
 
@@ -56,3 +60,4 @@
 # Sources
 - **Deliverable 1** | [Materials](https://learn.unity.com/tutorial/creating-physically-based-materials-unity-2019-3#) | [Unity Tutorial](https://learn.unity.com/project/unit-2-realtime-previsualization?uv=2019.4&courseId=5ee00851edbc2a0022274f75) | [Model 1](https://sketchfab.com/3d-models/the-last-of-us-bloater-6b87499104e54ec1a480a495613d349f) | [Model 2 ](https://sketchfab.com/3d-models/gimli-86f314ff66704184853d2e53e2559978) | [Tutorial   ](https://learn.unity.com/project/unit-3-environment-modeling-set-dressing-in-unity?uv=2019.4&courseId=5ee00851edbc2a0022274f75) | [Tutorial 2](https://learn.unity.com/project/unit-4-creating-an-animatic-a-preliminary-version-of-an-animation?uv=2019.4&courseId=5ee00851edbc2a0022274f75) | [VIDEO 1](https://www.youtube.com/watch?v=HFKrNcondeE) | [VIDEO 2](https://www.youtube.com/watch?v=zHCGdm5mJUo) | [VIDEO 3](https://www.youtube.com/watch?v=MrDuVcbp_Ws)
 - **Deliverable 2** | [MP3 Converter](https://www.easymp3converter.org/) | [MP3 Cutter](https://mp3cut.net/) | [Background Song](https://www.youtube.com/watch?v=mw2kKyJu9gY) | [ΘΑΝΑΗΛΑΚΗΣ](https://www.youtube.com/watch?v=a3wv7yjWZWQ) | [Tutorial](https://learn.unity.com/project/unit-5-create-compelling-shots-using-virtual-cameras?uv=2019.4&courseId=5ee00851edbc2a0022274f75) | [VIDEO 1](https://www.youtube.com/watch?v=syXEjVdY_Cw) | [VIDEO 2](https://www.youtube.com/watch?v=yA9XOMyBEYE) | [VIDEO 3](https://www.youtube.com/watch?v=wuly7GNDj6w)
+- **Deliverable 3** | [Texture Wall](https://www.easymp3converter.org/) | [Texture Ground](https://polyhaven.com/a/coast_sand_rocks_02) | [Forest Image Background](https://w0.peakpx.com/wallpaper/809/794/HD-wallpaper-forest-scene-ultra-nature-forests-autumn-trees-light-leaves-street-forest-mist-foggy-austria-fall-tall-trees-path-gravel-haze-fogscape-forestscape.jpg) | 
